@@ -1,0 +1,2 @@
+Pillow==9.5.0
+pyinstaller==5.10.1
